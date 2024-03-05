@@ -8,3 +8,9 @@ https://developer.accuweather.com/accuweather-forecast-api/apis/get/forecasts/v1
 
 2) С помощью Postman коллекции выбрать 10 методов и покрыть их тестами. (Опционально)
 3) Запушить проект в GIT
+
+
+ДЗ:
+1) Добавить allure и github триггер для тестов из любого ДЗ
+2 Запушить проект в GIT
+
